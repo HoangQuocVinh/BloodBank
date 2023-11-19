@@ -17,4 +17,8 @@ same blood group and with in the same city.</p>
   </ul>
   </p>
   <hr>
-  <h3>This is a project assigned by our team in India and we just follow the requirements of the topic</h3>
+  <h2>In this project I used technologies</h2>
+  <h3> Front-end: HTML/CSS, JavaScript</h3>
+  <h3>JQuery, BootStrap 4</h3>
+  <h3>Back-end: ASP.Net core MVC</h3>
+  <h3>Database: SQL Server 2019</h3>
